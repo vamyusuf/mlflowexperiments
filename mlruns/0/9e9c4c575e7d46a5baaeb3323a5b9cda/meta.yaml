@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/selflearn/MLFLOW/mlruns/0/9e9c4c575e7d46a5baaeb3323a5b9cda/artifacts
+end_time: 1741085268401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e9c4c575e7d46a5baaeb3323a5b9cda
+run_name: sassy-gnat-537
+run_uuid: 9e9c4c575e7d46a5baaeb3323a5b9cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741085263314
+status: 3
+tags: []
+user_id: Youssef
